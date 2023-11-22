@@ -1,3 +1,6 @@
 # Motion-Capture-and-Animation-Project-in-Unity-3D
 
-Uploading motion_capture - SampleScene - PC, Mac & Linux Standalone - Unity 2020.3.28f1 Personal _DX11_ 2023-11-22 15-10-18.mp4…
+
+https://github.com/Dhruvil5995/Motion-Capture-and-Animation-Project-in-Unity-3D/assets/64741151/05d5f225-c731-43ea-94e7-610b8f048d06
+
+
