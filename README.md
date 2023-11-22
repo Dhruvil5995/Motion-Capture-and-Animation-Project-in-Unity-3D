@@ -5,6 +5,7 @@ https://github.com/Dhruvil5995/Motion-Capture-and-Animation-Project-in-Unity-3D/
 
 
 
-[image](https://github.com/Dhruvil5995/Motion-Capture-and-Animation-Project-in-Unity-3D/assets/64741151/13ee82f9-8b0c-4f22-b148-9c13830e21a1)
 
 
+
+![2023-11-22](https://github.com/Dhruvil5995/Motion-Capture-and-Animation-Project-in-Unity-3D/assets/64741151/abdda6da-5e78-47ba-9ec7-0f2a710b1b70)
